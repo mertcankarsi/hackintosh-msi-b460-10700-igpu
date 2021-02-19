@@ -1,6 +1,6 @@
 # Hackintosh Opencore Bootloader for B460M, 10700, iGPU
 
-<img src="https://raw.githubusercontent.com/mckarsi/hackintosh-msi-b460-10700-igpu/main/ss.jpg" />
+<img src="https://raw.githubusercontent.com/mckarsi/hackintosh-msi-b460-10700-igpu/main/ss.png" />
 
 ## System
 
