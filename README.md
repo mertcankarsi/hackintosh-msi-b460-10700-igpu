@@ -1,0 +1,1 @@
+# hackintosh-msi-b460-10700-igpu
